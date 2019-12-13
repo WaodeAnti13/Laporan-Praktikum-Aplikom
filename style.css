@@ -1,0 +1,71 @@
+/* NAVBAR */
+body{
+    margin: auto;
+    padding: 0;
+    background-color: white;
+}
+.Navbar-logo{
+    margin: 0;
+    padding: 15px 0px 0px 40px;
+    float: left;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    display: inline;
+    background-color: rgb(0, 255, 85);
+    margin: 50px 50px 0px 0px;
+    text-decoration: none;
+    border: solid 1px black;
+    padding: 5px 10px;
+    float: right;
+    color: black;
+}
+li{
+    padding: 0;
+    margin: 0;
+}
+.buton{
+    padding-top: 8px ;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+.Navbar_Background{
+    width:100%;
+    background-image: url(Gambar/nay.jpeg);
+    padding : 100px 0px 30px 0px;   
+}
+
+/* CONTENT */
+.Content-background{
+    text-align: center;
+    width: 90%;
+    margin: 10px 45px;
+    background-image: url(Gambar/Exploded.jpg);
+    background-color: green;
+    padding: 130px 20px;
+}
+.Content{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    background-color: greenyellow;
+    padding: 0px;
+}
+h1{
+    font-size: 30px;
+}
+
+/* FOOTER */
+.Footer{
+    width: 90%;
+    margin: 10px 45px;
+    background-color: greenyellow;
+    text-align: center;
+    padding: 5px 20px;
+    font-size: 18px;
+}
